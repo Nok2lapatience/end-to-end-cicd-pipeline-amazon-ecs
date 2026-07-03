@@ -114,3 +114,86 @@ Deploy to Amazon ECS
 
 Application becomes available through Application Load Balancer
 
+## Jenkins Pipeline Stages
+Retrieve latest application code from GitHub.
+
+Compile application using Maven.
+
+Execute automated unit tests.
+
+Run static code analysis.
+
+Analyze code quality.
+
+Ensure quality requirements are satisfied before deployment.
+
+Package the application into a Docker container.
+
+Authenticate using IAM credentials stored securely in Jenkins Credentials.
+
+Upload Docker image to Amazon Elastic Container Registry.
+
+Update ECS Task Definition
+
+Deploy latest image
+
+Start new ECS Tasks
+
+Register tasks with Target Group
+
+Application becomes available through the Load Balancer
+
+## Jenkins Configuration
+Installed Jenkins
+
+Configured Global Tools
+
+Installed Plugins
+
+Configured Credentials
+
+Connected GitHub
+
+Created Pipeline Job
+
+## Docker
+Installed Docker Engine
+
+Configured Docker Service
+
+Added Jenkins user to Docker group
+
+## AWS CLI
+Installed AWS CLI
+
+Configured AWS Credentials
+
+## Amazon ECR
+Created ECR Repository
+
+Configured IAM Permissions
+
+## Amazon ECS
+Created ECS Cluster
+
+Created Task Definition
+
+Created ECS Service
+
+Configured Container Definition
+
+Configured Desired Tasks
+
+## Load Balancer
+Created Application Load Balancer
+
+Configured Listener
+
+Created Target Group
+
+Registered ECS Service
+
+## CloudWatch
+Configured ECS Log Groups
+
+Verified Application Logs
