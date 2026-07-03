@@ -197,3 +197,85 @@ Registered ECS Service
 Configured ECS Log Groups
 
 Verified Application Logs
+
+## Skills Demonstrated
+AWS
+
+Amazon ECS
+
+Amazon ECR
+
+Docker
+
+Jenkins
+
+CI/CD
+
+Cloud Computing
+
+Automation
+
+Linux
+
+GitHub
+
+SonarQube
+
+Maven
+
+IAM
+
+CloudWatch
+
+Application Load Balancer
+
+DevOps
+
+## Lessons Learned
+This project strengthened my understanding of:
+
+• End-to-end CI/CD automation
+• Docker containerization
+• Amazon ECS deployments
+• Amazon ECR image management
+• Secure IAM authentication
+• Cloud-native deployment workflows
+• Application Load Balancer configuration
+• CloudWatch logging
+• DevOps best practices
+
+## Future Improvements
+Infrastructure as Code using Terraform
+
+Deploy to Amazon EKS
+
+Implement Kubernetes
+
+GitHub Actions
+
+GitLab CI/CD
+
+ArgoCD
+
+GitOps
+
+Blue/Green Deployments
+
+Prometheus
+
+Grafana
+
+AWS Lambda
+
+## Author
+Nokuthula Patience Zulu
+
+Cloud & DevOps Engineer in Development
+
+📍 Pretoria, South Africa
+
+GitHub:
+https://github.com/Nok2lapatience
+
+LinkedIn:
+https://linkedin.com/in/Nokuthula-zulu-762a4157
